@@ -46,3 +46,6 @@ videoBtn.forEach(btn =>{
         document.querySelector('#video-slider').src = src
     });
 });
+var swiper = new Swiper(".box-review-slider", {
+    
+});
